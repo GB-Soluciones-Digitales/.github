@@ -42,7 +42,7 @@ En esta organización se encuentran proyectos reales desarrollados por **GB Solu
 Si necesitás una solución digital o querés optimizar procesos existentes, podemos ayudarte.
 
 📧 **Contacto:** gbsolucionesdigitales@gmail.com  
-🌐 **Web:** gbsolucionesdigitales.com.ar
+🌐 **Web:** [gbsolucionesdigitales.com.ar](https://www.gbsolucionesdigitales.com.ar/)
 
 ---
 
