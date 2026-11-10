@@ -93,6 +93,12 @@ Desarrollamos soluciones para distintos rubros y necesidades, desde aplicaciones
 
 En esta organización encontrarás proyectos que reflejan nuestro trabajo, experiencia y compromiso con la calidad del software.
 
+## 📂 Proyectos Destacados de la Agencia
+
+- **[MM Entrenamiento](https://github.com/Brian13b/MM_Entrenamiento)**: PWA para la gestión inteligente de turnos, horarios dinámicos y retención de alumnos en centros de entrenamiento.
+- **[Sistema Integral DaniPak](https://github.com/GB-Soluciones-Digitales/sistema_gestion_logistica_danipak)**: Sistema de gestión logística y encomiendas con arquitectura offline-first (FastAPI + React).
+- **[DripGestión](https://github.com/Brian13b/dripgestion_backend)**: SaaS multi-tenant para distribución de agua con control de rutas y PWA offline.
+
 ## 🤝 ¿Tenés un proyecto en mente?
 
 Nos interesa conocer nuevas ideas y ayudar a convertirlas en soluciones concretas.
