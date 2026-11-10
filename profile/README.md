@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/banner-gb.png" alt="GB Soluciones Digitales" width="100%">
+  <img src="../assets/banner-gb.png" alt="GB Soluciones Digitales" width="100%">
 </p>
 
 <h1 align="center">GB Soluciones Digitales</h1>
