@@ -1,11 +1,7 @@
-<!--
-  Banner: guardar la imagen en assets/banner-gb.png
-  y descomentar la siguiente línea.
--->
 
-<!-- <p align="center">
+<p align="center">
   <img src="assets/banner-gb.png" alt="GB Soluciones Digitales" width="100%">
-</p> -->
+</p>
 
 <h1 align="center">GB Soluciones Digitales</h1>
 
