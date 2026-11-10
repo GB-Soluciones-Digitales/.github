@@ -1,49 +1,120 @@
-# GB Soluciones Digitales 🚀
+<!--
+  Banner: guardar la imagen en assets/banner-gb.png
+  y descomentar la siguiente línea.
+-->
 
-Somos un equipo de desarrollo enfocado en la creación de **soluciones digitales a medida** para empresas y emprendimientos.
+<!-- <p align="center">
+  <img src="assets/banner-gb.png" alt="GB Soluciones Digitales" width="100%">
+</p> -->
 
-Diseñamos y desarrollamos sistemas web modernos, escalables y orientados a optimizar procesos, mejorar la gestión y centralizar la información.
+<h1 align="center">GB Soluciones Digitales</h1>
+
+<h3 align="center">
+  Transformamos ideas en soluciones digitales.
+</h3>
+
+<p align="center">
+  Desarrollamos software a medida para simplificar procesos,
+  optimizar la gestión y potenciar negocios.
+</p>
+
+<p align="center">
+  <a href="https://www.gbsolucionesdigitales.com.ar/">
+    🌐 Sitio web
+  </a>
+  ·
+  <a href="mailto:gbsolucionesdigitales@gmail.com">
+    ✉️ Contacto
+  </a>
+</p>
 
 ---
 
-## 🧩 Qué hacemos
+## 🚀 Sobre nosotros
 
-- Desarrollo de **sistemas web a medida**
-- **Sistemas de gestión** y paneles administrativos
-- Aplicaciones web modernas (SPA)
-- Automatización de procesos
-- Integraciones y APIs personalizadas
+En **GB Soluciones Digitales** nos especializamos en el diseño y desarrollo de software a medida, creando herramientas digitales que responden a las necesidades reales de cada negocio.
 
----
+Acompañamos a empresas y emprendimientos en la transformación de sus procesos, desarrollando soluciones modernas, escalables y fáciles de utilizar.
+
+Nuestro objetivo es convertir ideas y necesidades en herramientas que generen valor.
+
+## 💡 Nuestros servicios
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>💻 Desarrollo de software</h3>
+      Aplicaciones web personalizadas, diseñadas según las necesidades de cada cliente.
+    </td>
+    <td width="50%">
+      <h3>📊 Sistemas de gestión</h3>
+      Herramientas para administrar operaciones, centralizar información y mejorar procesos.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>⚙️ Automatización</h3>
+      Digitalización de tareas y procesos para reducir tiempos y optimizar recursos.
+    </td>
+    <td width="50%">
+      <h3>🔗 APIs e integraciones</h3>
+      Desarrollo de servicios e integraciones para conectar sistemas y plataformas.
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Tecnologías
 
-Trabajamos con tecnologías modernas y confiables:
+Trabajamos con herramientas modernas y tecnologías confiables para desarrollar soluciones eficientes.
 
-- **Frontend:** React, Vite
-- **Backend:** Python (FastAPI), .NET, Java
-- **Bases de datos:** PostgreSQL, MySQL
-- **Control de versiones:** Git & GitHub
+**Frontend**
+ 
+- React
+- Vite
+- JavaScript
+- HTML5 / CSS3
+
+**Backend**
+
+- Python / FastAPI
+- C# / .NET
+- Java / Spring Boot
+
+**Bases de datos**
+
+- PostgreSQL
+- MySQL
+
+**Herramientas y tecnologías complementarias**
+
+- Git & GitHub
+- Docker
+- REST APIs
+
+## 📂 Nuestros proyectos
+
+Desarrollamos soluciones para distintos rubros y necesidades, desde aplicaciones web hasta sistemas de gestión empresarial.
+
+En esta organización encontrarás proyectos que reflejan nuestro trabajo, experiencia y compromiso con la calidad del software.
+
+## 🤝 ¿Tenés un proyecto en mente?
+
+Nos interesa conocer nuevas ideas y ayudar a convertirlas en soluciones concretas.
+
+Si necesitás desarrollar un sistema desde cero, digitalizar procesos o mejorar las herramientas que utiliza tu negocio, podemos ayudarte.
+
+<p align="center">
+  <a href="https://www.gbsolucionesdigitales.com.ar/">
+    <strong>Conocé más sobre nosotros</strong>
+  </a>
+</p>
+
+<p align="center">
+  📧 gbsoluciondigital@gmail.com
+</p>
 
 ---
 
-## 📂 Proyectos
-
-En esta organización se encuentran proyectos reales desarrollados por **GB Soluciones Digitales**, incluyendo:
-
-- Sistemas de gestión
-- Aplicaciones web completas
-- Soluciones personalizadas para distintos rubros
-
----
-
-## 🤝 Trabajemos juntos
-
-Si necesitás una solución digital o querés optimizar procesos existentes, podemos ayudarte.
-
-📧 **Contacto:** gbsolucionesdigitales@gmail.com  
-🌐 **Web:** [gbsolucionesdigitales.com.ar](https://www.gbsolucionesdigitales.com.ar/)
-
----
-
-> *Desarrollamos soluciones digitales pensadas para simplificar procesos y mejorar la gestión.*
+<p align="center">
+  <i>GB Soluciones Digitales · Software pensado para hacer crecer tu negocio.</i>
+</p>
